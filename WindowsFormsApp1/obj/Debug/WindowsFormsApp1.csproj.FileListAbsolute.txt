@@ -1,9 +1,0 @@
-C:\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
-C:\test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
-C:\test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
-C:\test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
-C:\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
-C:\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
-C:\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
-C:\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
-C:\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache

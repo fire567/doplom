@@ -1,0 +1,20 @@
+C:\Users\Mihail\source\repos\ALU1 diplom\ALU1 diplom\bin\Debug\ALU1 diplom.exe.config
+C:\Users\Mihail\source\repos\ALU1 diplom\ALU1 diplom\bin\Debug\ALU1 diplom.exe
+C:\Users\Mihail\source\repos\ALU1 diplom\ALU1 diplom\bin\Debug\ALU1 diplom.pdb
+C:\Users\Mihail\source\repos\ALU1 diplom\ALU1 diplom\obj\Debug\ALU1 diplom.csprojAssemblyReference.cache
+C:\Users\Mihail\source\repos\ALU1 diplom\ALU1 diplom\obj\Debug\ALU1_diplom.Form1.resources
+C:\Users\Mihail\source\repos\ALU1 diplom\ALU1 diplom\obj\Debug\ALU1_diplom.Properties.Resources.resources
+C:\Users\Mihail\source\repos\ALU1 diplom\ALU1 diplom\obj\Debug\ALU1 diplom.csproj.GenerateResource.cache
+C:\Users\Mihail\source\repos\ALU1 diplom\ALU1 diplom\obj\Debug\ALU1 diplom.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\source\repos\ALU1 diplom\ALU1 diplom\obj\Debug\ALU1 diplom.exe
+C:\Users\Mihail\source\repos\ALU1 diplom\ALU1 diplom\obj\Debug\ALU1 diplom.pdb
+C:\Desktop\ALU1 diplom\bin\Debug\ALU1 diplom.exe.config
+C:\Desktop\ALU1 diplom\bin\Debug\ALU1 diplom.exe
+C:\Desktop\ALU1 diplom\bin\Debug\ALU1 diplom.pdb
+C:\Desktop\ALU1 diplom\obj\Debug\ALU1 diplom.csproj.AssemblyReference.cache
+C:\Desktop\ALU1 diplom\obj\Debug\ALU1_diplom.Form1.resources
+C:\Desktop\ALU1 diplom\obj\Debug\ALU1_diplom.Properties.Resources.resources
+C:\Desktop\ALU1 diplom\obj\Debug\ALU1 diplom.csproj.GenerateResource.cache
+C:\Desktop\ALU1 diplom\obj\Debug\ALU1 diplom.csproj.CoreCompileInputs.cache
+C:\Desktop\ALU1 diplom\obj\Debug\ALU1 diplom.exe
+C:\Desktop\ALU1 diplom\obj\Debug\ALU1 diplom.pdb
